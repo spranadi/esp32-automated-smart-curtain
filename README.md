@@ -52,7 +52,9 @@ Project is created with:
 ***Smooth Acceleration Curve:** Uses a trapezoidal speed profile (gradually speeding up and slowing down) to prevent belt slip and motor stalls.
     **Motion Speed Control Breakdown:**
     To prevent the heavy curtain from skipping steps or slipping the belt, the firmware adjusts the pause time between step      pulses so the motor speeds up and slows down gradually:
+    
     **FORMULA: Delay = DelayMax - (CurrentStep / RampSteps) * (DelayMax - DelayMin)**
+    
     **VARIABLES:**
     * **Delay:** The wait time in microseconds (us) between motor pulses. A shorter delay means the motor spins faster.
     * **CurrentStep:** Which step the motor is currently on during acceleration (from 0 to 400).
