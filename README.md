@@ -58,7 +58,7 @@ Project is created with:
     **VARIABLES:**
     * **Delay:** The wait time in microseconds (us) between motor pulses. A shorter delay means the motor spins faster.
     * **CurrentStep:** Which step the motor is currently on during acceleration (from 0 to 400).
-    * **DelayMax (10,000 us):** Starting speed. A long pause makes the motor turn slowly with high torque to get the heavy       curtain moving from a dead stop.
+    * **DelayMax (10,000 us):** Starting speed. A long pause makes the motor turn slowly with high torque to get the heavy curtain moving from a dead stop.
     * **DelayMin (5,000 us):** Top cruising speed once the curtain is rolling.
     * **RampSteps (400 steps):** The number of steps the motor takes to ramp up from start to full speed.
 * **Responsive Web Dashboard:** Uses a cooperative `yieldCallback` every 150 motor steps so the web server handles button clicks and status updates mid-transit without freezing.
