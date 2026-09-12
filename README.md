@@ -21,18 +21,63 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 
 ---
 
-## Screenshots & Diagrams
+## Screenshots & Demos
+
+### Hardware Assembly & Components
 
 <p align="center">
-  <img src="assets/curtain-demo.gif" alt="Curtain Motion Demo" width="600">
+  <img src="assets/01pulleybeltright.jpg" alt="Idler Pulley and Right Belt Assembly" width="600">
   <br>
-  <em>Physical hardware in motion</em>
+  <em><!-- Caption for 01pulleybeltright.jpg: e.g., Right-side idler pulley and GT2 timing belt tensioner --></em>
 </p>
 
 <p align="center">
-  <img src="assets/wiring-diagram.png" alt="Circuit Wiring Diagram" width="600">
+  <img src="assets/02motor.jpg" alt="NEMA 17 Stepper Motor Mount" width="600">
   <br>
-  <em>System schematic and pin layout</em>
+  <em><!-- Caption for 02motor.jpg: e.g., NEMA 17 stepper motor installed on custom bracket --></em>
+</p>
+
+<p align="center">
+  <img src="assets/03beltstabilizer.jpg" alt="Belt Stabilizer Guide" width="600">
+  <br>
+  <em><!-- Caption for 03beltstabilizer.jpg: e.g., Mid-span belt stabilizer clip keeping GT2 alignment --></em>
+</p>
+
+<p align="center">
+  <img src="assets/04curtainconnect.jpg" alt="Curtain to Timing Belt Connection" width="600">
+  <br>
+  <em><!-- Caption for 04curtainconnect.jpg: e.g., Mechanical drapery fastener clamped to the timing belt loop --></em>
+</p>
+
+<p align="center">
+  <img src="assets/05breadboard.jpg" alt="ESP32 and A4988 Circuit Breadboard" width="600">
+  <br>
+  <em><!-- Caption for 05breadboard.jpg: e.g., Breadboard wiring for the ESP32, A4988 driver, and power distribution --></em>
+</p>
+
+---
+
+### Video Demonstrations
+
+#### Web Console Interface (6s)
+<p align="center">
+  <video src="assets/vid01webpage%20(2).mp4" controls width="650"></video>
+  <br>
+  <em><!-- Caption for vid01webpage (2).mp4: e.g., Web dashboard boot routine and real-time live terminal stream --></em>
+</p>
+
+#### Curtain Opening Cycle (44s)
+<p align="center">
+  <video src="assets/vid02curtopen%20(1).mp4" controls width="650"></video>
+  <br>
+  <em><!-- Caption for vid02curtopen (1).mp4: e.g., Full 44-second curtain open cycle with smooth acceleration profile --></em>
+</p>
+
+#### Curtain Closing Cycle (40s)
+<p align="center">
+  <video src="assets/vid03curtclose%20(1).mp4" controls width="650"></video>
+  <br>
+  <em><!-- Caption for vid03curtclose (1).mp4: e.g., 40-second curtain close cycle and limit positioning --></em>
 </p>
 
 ---
