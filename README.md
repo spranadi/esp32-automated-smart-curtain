@@ -70,6 +70,11 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 #### Web Console Interface (6s)
 <p align="center">
   <video src="assets/vid01webpage%20(2).mp4" controls width="650"></video>
+  
+
+https://github.com/user-attachments/assets/af7e2a32-45d2-408a-88af-923802b87f64
+
+
   <br>
   <em><!-- Caption for vid01webpage (2).mp4: e.g., Web dashboard boot routine and real-time live terminal stream --></em>
 </p>
@@ -77,6 +82,7 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 #### Curtain Opening Cycle (44s)
 <p align="center">
   <video src="assets/vid02curtopen%20(1).mp4" controls width="650"></video>
+  
   <br>
   <em><!-- Caption for vid02curtopen (1).mp4: e.g., Full 44-second curtain open cycle with smooth acceleration profile --></em>
 </p>
@@ -84,6 +90,7 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 #### Curtain Closing Cycle (40s)
 <p align="center">
   <video src="assets/vid03curtclose%20(1).mp4" controls width="650"></video>
+  
   <br>
   <em><!-- Caption for vid03curtclose (1).mp4: e.g., 40-second curtain close cycle and limit positioning --></em>
 </p>
