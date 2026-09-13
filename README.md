@@ -23,7 +23,7 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 
 ## Screenshots & Demos
 
-### ESP32 Smart Curtain Schematic\
+### ESP32 Smart Curtain Schematic
 
 <p align="center">
   <img src="assets/curtaincircuitschematicv2.png" alt="ESP32 Smart Curtain Schematic" width="600">
