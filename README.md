@@ -70,10 +70,7 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 #### Web Console Interface (6s)
 <p align="center">
   <video src="assets/vid01webpage%20(2).mp4" controls width="650"></video>
-  
-
-https://github.com/user-attachments/assets/af7e2a32-45d2-408a-88af-923802b87f64
-
+    <img width="1333" height="836" alt="Screenshot 2026-08-21 231534" src="https://github.com/user-attachments/assets/84784559-265c-46d6-aef9-b8110c4dbf31" />
 
   <br>
   <em><!-- Caption for vid01webpage (2).mp4: e.g., Web dashboard boot routine and real-time live terminal stream --></em>
