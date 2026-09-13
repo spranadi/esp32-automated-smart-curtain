@@ -15,7 +15,7 @@ A smart home embedded system that automates window curtains using an ESP32 micro
 ---
 
 ## General Info
-The goal of this project is to automate traditional window curtains cleanly and reliably without relying on third-party cloud services, resulting in better quality of sleep and an optimal wake routine.
+The goal of this personal project is to automate traditional window curtains cleanly and reliably without relying on third-party cloud services, resulting in better quality of sleep and an optimal wake routine. I was looking for a way to optimize my sleep from a circadian biology standpoint. Waking up gradually to natural morning light regulates cortisol and melatonin cycles more effectively than a standard alarm, while sleeping in complete darkness ensures high-quality REM and deep sleep. To achieve this, I designed an entirely local ESP32-driven stepper motor system that automates consistent opening/closing cycles based on locally set schedules.
 
 The firmware controls a stepper motor to pull a timing belt back and forth across a window track. It serves a lightweight web page directly from the ESP32's flash memory, letting you control the curtains and set daily open/close schedules from any phone or computer on your local network. It also includes a physical wall button override and uses smooth acceleration so the motor does not move the belt erratically.
 
