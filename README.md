@@ -23,12 +23,15 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 
 ## Screenshots & Demos
 
-### Hardware Assembly & Components
+### ESP32 Smart Curtain Schematic\
+
 <p align="center">
   <img src="assets/curtaincircuitschematicv2.png" alt="ESP32 Smart Curtain Schematic" width="600">
   <br>
   <em><!-- Caption --></em>
 </p>
+
+### Hardware Assembly & Components
 
 <p align="center">
   <img src="assets/01pulleybeltright.jpg" alt="Idler Pulley and Right Belt Assembly" width="600">
