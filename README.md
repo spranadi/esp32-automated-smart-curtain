@@ -63,11 +63,7 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
   <em><!-- Caption for 05breadboard.jpg: e.g., Breadboard wiring for the ESP32, A4988 driver, and power distribution --></em>
 </p>
 
----
-
-### Video Demonstrations
-
-#### Web Console Interface (6s)
+### Web Console Interface
 <p align="center">
   <video src="assets/vid01webpage%20(2).mp4" controls width="650"></video>
     <img width="1333" height="836" alt="Screenshot 2026-08-21 231534" src="https://github.com/user-attachments/assets/84784559-265c-46d6-aef9-b8110c4dbf31" />
@@ -75,6 +71,10 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
   <br>
   <em><!-- Caption for vid01webpage (2).mp4: e.g., Web dashboard boot routine and real-time live terminal stream --></em>
 </p>
+
+---
+
+### Video Demonstrations
 
 #### Curtain Opening Cycle (44s)
 <p align="center">
