@@ -78,16 +78,22 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 
 #### Curtain Opening Cycle (44s)
 <p align="center">
-  <video src="assets/vid02curtopen%20(1).mp4" controls width="650"></video>
   
+
+Uploading vid02curtopen.mp4…
+
+
   <br>
   <em><!-- Caption for vid02curtopen (1).mp4: e.g., Full 44-second curtain open cycle with smooth acceleration profile --></em>
 </p>
 
 #### Curtain Closing Cycle (40s)
 <p align="center">
-  <video src="assets/vid03curtclose%20(1).mp4" controls width="650"></video>
   
+
+https://github.com/user-attachments/assets/ddd30b65-3375-4d02-b83b-d6cad835a777
+
+
   <br>
   <em><!-- Caption for vid03curtclose (1).mp4: e.g., 40-second curtain close cycle and limit positioning --></em>
 </p>
