@@ -78,9 +78,9 @@ The firmware controls a stepper motor to pull a timing belt back and forth acros
 
 #### Curtain Opening Cycle (44s)
 <p align="center">
-  
 
-Uploading vid02curtopen.mp4…
+
+https://github.com/user-attachments/assets/8b013935-01da-483b-b9ed-a7cb175d0b2d
 
 
   <br>
